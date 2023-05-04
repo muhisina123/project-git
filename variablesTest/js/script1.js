@@ -12,3 +12,4 @@ console.log('my favourite series is'+ fav_series);*/
 console.log( 'La série "'+ series1+ '" arrive en tête du classement avec 2 misérables points, suivie de "'+series4+'" avec une demi main levée, et "' +series5+ '" qui a totalement été désavoué par son instigatrice');  
 
 console.log( `La série '${series1}' arrive en tête du classement avec 2 misérables points, suivie de'${series4}' avec une demi main levée, et '${series5}' qui a totalement été désavoué par son instigatrice`);  
+console.log("test");
